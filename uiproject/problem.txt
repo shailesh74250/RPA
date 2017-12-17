@@ -1,0 +1,2 @@
+we want to automate the task of copying data from a website and entering in the excel sheet, 
+also one has to mail this excel sheet on the specified email address.
